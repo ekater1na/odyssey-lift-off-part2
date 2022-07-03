@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ekater1na/odyssey-lift-off-part2/issues"
   },
-  "homepage": "https://github.com/ekater1na/odyssey-lift-off-part2#readme"
+  "homepage": "https://github.com/ekater1na/odyssey-lift-off-part2#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  }
 }
